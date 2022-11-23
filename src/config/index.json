@@ -24,7 +24,7 @@
 	],
 	"callToAction": {
 		"text": "Let's Talk",
-		"href": "https://api.whatsapp.com/send?phone=07414144162"
+		"href": "https://wa.link/vgcxbk"
 	},
 	"mainHero": {
 		"title": "Sometimes you just need to be",
@@ -33,7 +33,7 @@
 		"img": "/assets/images/humans.svg",
 		"primaryAction": {
 			"text": "Be Heard",
-			"href": "https://api.whatsapp.com/send?phone=07414144162"
+			"href": "https://wa.link/vgcxbk"
 		},
 		"secondaryAction": {
 			"text": "Email us",
@@ -134,7 +134,7 @@
 			}
 		],
 		"socialMedia": {
-			"whatsapp": "https://api.whatsapp.com/send?phone=07414144162",
+			"whatsapp": "https://wa.link/vgcxbk",
 			"email": "mailto:shutuplistenplease@gmail.com?subject=Listen, Please!"
 		}
 	}
