@@ -1,0 +1,141 @@
+{
+	"company": {
+		"name": "Shut Up & Listen.",
+		"logo": "/assets/images/logo.png"
+	},
+	"navigation": [
+		{
+			"name": "For You",
+			"href": "product"
+		},
+		{
+			"name": "What we do",
+			"href": "features"
+		},
+
+		{
+			"name": "Pricing",
+			"href": "pricing"
+		},
+		{
+			"name": "Contact us",
+			"href": "about"
+		}
+	],
+	"callToAction": {
+		"text": "Let's Talk",
+		"href": "https://api.whatsapp.com/send?phone=07414144162"
+	},
+	"mainHero": {
+		"title": "Sometimes you just need to be",
+		"subtitle": "heard.",
+		"description": "Therapy can be inaccessible, pretentious & expensive. \n You just need to be heard. We just want to shut up & listen.",
+		"img": "/assets/images/humans.svg",
+		"primaryAction": {
+			"text": "Be Heard",
+			"href": "https://api.whatsapp.com/send?phone=07414144162"
+		},
+		"secondaryAction": {
+			"text": "Email us",
+			"href": "mailto:shutuplistenplease@gmail.com?subject=Listen, Please!"
+		}
+	},
+	"product": {
+		"title": "How can we be there for you?",
+		"items": [
+			{
+				"title": "No pressure, talk about anything.",
+				"description": "This is a your safe space. Feel free to discuss nothing at all or everything under the sun. Our sole purpose is your comfort, well being & mental health. We just want to be there for you. No matter what.",
+				"img": "/assets/images/product1.jpg"
+			},
+			{
+				"title": "Want advice? Let's sort it out!",
+				"description": "Sometimes you need a solution. Unfortunately, you're emotionally attached to the situation and can't see a way. We break it down and take action, guiding you to a tailored solution.",
+				"img": "/assets/images/product2.jpg"
+			}
+		]
+	},
+	"features": {
+		"title": "What we do",
+		"subtitle": "This is how we make your life better",
+		"description": "",
+		"items": [
+			{
+				"name": "Listen",
+				"description": "We shut up and listen. We give you the space to get everything off your chest.",
+				"icon": "/assets/images/people.svg"
+			},
+			{
+				"name": "Communicate",
+				"description": "We talk things out. Helping you decompress & declutter the mind. Clearing the table and helping you move forward to a better you.",
+				"icon": "/assets/images/convo.svg"
+			},
+			{
+				"name": "Trust",
+				"description": "Everything is confidential. We take your secrets to our grave.",
+				"icon": "/assets/images/lock.svg"
+			},
+			{
+				"name": "Care",
+				"description": "We value genuineness. From the bottom our our hearts we care and want to fully be there to support.",
+				"icon": "/assets/images/hand.svg"
+			}
+		]
+	},
+	"pricing": {
+		"title": "Pricing",
+		"items": [
+			{
+				"name": "What's Up?",
+				"price": "£20",
+				"priceDetails": "per chat",
+				"features": ["Virtual Call", "Up to 1 Hour", "Email Support"]
+			},
+			{
+				"name": "DEEP Talks",
+				"price": "£50",
+				"priceDetails": "per chat",
+
+				"features": [
+					"Virtual Call or Meet Up",
+					"1 Hour +",
+					"Phone and Email Support"
+				]
+			},
+			{
+				"name": "Round the Clock",
+				"price": "£500",
+				"priceDetails": "per month",
+				"features": ["All Yours", "24/7", "Phone and Email, Video Call Support"]
+			}
+		]
+	},
+	"about": {
+		"sections": [
+			{
+				"name": "Something",
+				"href": "#",
+				"content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+			},
+			{
+				"name": "Something",
+				"href": "#",
+				"content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+			},
+			{
+				"name": "Something",
+				"href": "#",
+				"content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+			},
+			{
+				"name": "Something",
+				"href": "#",
+				"content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+			}
+		],
+		"socialMedia": {
+			"whatsapp": "https://api.whatsapp.com/send?phone=07414144162",
+			"email": "mailto:shutuplistenplease@gmail.com?subject=Listen, Please!"
+		}
+	}
+}
